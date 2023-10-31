@@ -1,0 +1,7 @@
+How To Install Pubuntu OS Tutorial:
+
+Step 1 - Installing Python: Install Python Latest Version From python.org And Run It. Check 'Add to PATH' And The Checkbox Above It And Then Click On Next. Don't Do Anything And Click Install. Python Will Be Installed. Note: You Will Need Windows 7 Or Later.
+
+Step 2 (Last Step) - Installing My OS: Go To Folder 'Normal Edition' Because AIO Edition Has An Error. Run Pubuntu OS Normal Edition.py And It Will Install. Follow The Instructions And You're Ready To Go!😄😄
+
+But Don't Forgive To Give Me Credits If You're Uploading It On Social Media!
